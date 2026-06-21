@@ -1,1 +1,0 @@
-MCP testbed - demo repository.
