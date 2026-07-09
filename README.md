@@ -14,7 +14,7 @@ and adapted to fit this testbed.
 | Agent runtime | `agno.Agent` + `agno.tools.mcp.MCPTools` | `langgraph.prebuilt.create_react_agent` + `langchain_mcp_adapters` (matches `apps/Stock-Analysis` and `apps/MCP-Trip-Planner`) |
 | UI | Streamlit | Streamlit (preserved) |
 
-Every MCP call is tagged with a `Task_id` header so Obot's audit log can link
+Every MCP call is tagged with a `Task_ID` header so Obot's audit log can link
 tool invocations back to the originating run — same pattern as the other apps.
 
 ## Files
