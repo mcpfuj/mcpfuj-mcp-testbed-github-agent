@@ -75,3 +75,7 @@ This testbed exists to evaluate access-control / anomaly-detection rules on
 top of MCP traffic. We deliberately want a **wide, over-permissive tool
 surface** so the rule engine has something interesting to constrain. Do not
 ship this configuration in production.
+
+## Status
+
+This is a testbed repository.
